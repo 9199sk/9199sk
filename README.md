@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samir Khan</h1>
+![Your Image](https://media.licdn.com/dms/image/v2/D5616AQFPO8qdWlmB9Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734874140202?e=1741824000&v=beta&t=rqOaeHG8_bwd-3DbenlQ0kVj9m0M2cY4VF4HaF3t9wo)
+
+<h1 align="center">Hi 👋, I'm Md Samir Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
@@ -84,9 +86,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9199sk&show_icons=true&locale=en&layout=compact" alt="9199sk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9199sk&show_icons=true&locale=en" alt="9199sk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9199sk&" alt="9199sk" /></p>
-
+<h3 align="left">Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codersam049&show_icons=true&locale=en" alt="codersam049" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersam049&" alt="codersam049" />
+</p>

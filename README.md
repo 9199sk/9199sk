@@ -1,5 +1,4 @@
-![Your Image](https://media.licdn.com/dms/image/v2/D5616AQFPO8qdWlmB9Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734874140202?e=1741824000&v=beta&t=rqOaeHG8_bwd-3DbenlQ0kVj9m0M2cY4VF4HaF3t9wo)
-
+![Your Image](https://developers.redhat.com/sites/default/files/styles/list_item_thumb/public/RDH_Developer_Roundup.png?itok=_hhYIi5G)
 <h1 align="center">Hi 👋, I'm Md Samir Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

@@ -1,4 +1,7 @@
-![Your Image](https://developers.redhat.com/sites/default/files/styles/list_item_thumb/public/RDH_Developer_Roundup.png?itok=_hhYIi5G)
+<!-- Hacker GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker GIF" width="500"/>
+</p>
 <h1 align="center">Hi 👋, I'm Md Samir Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
